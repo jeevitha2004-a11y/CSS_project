@@ -1,7 +1,3 @@
-{
-  "name": "css-project",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "mkdir -p dist && cp index.html dist/ && cp styles.css dist/"
-  }
+"scripts": {
+  "build": "mkdir -p dist && cp index.html dist/"
 }
